@@ -74,3 +74,18 @@ test Align
 
 Line height
 impacts space  around the text
+
+
+Display
+every elemment is in a box , user can detremine how to show each atttr/ tag same line , down etc
+1. inline - sit next to each other (default)
+2. block - forces line break in between elements all the horizantal  default entire page width (rule can be set for width and height)    
+3. inline-block - next to each other but also accept height and weight
+4. none - remove this elem fro page (not used much)
+
+
+if neighbouring display is block and we jsut change one in mioddle as inlcine it wi=ont work 
+
+lesser know display properties
+5. float - right / left position elmenent as far as either side no overlap though
+6. clear - used to keep floating elements away has 3 values right, left, both

@@ -89,3 +89,14 @@ if neighbouring display is block and we jsut change one in mioddle as inlcine it
 lesser know display properties
 5. float - right / left position elmenent as far as either side no overlap though
 6. clear - used to keep floating elements away has 3 values right, left, both
+
+
+Element Overflow
+1. visible -> text will go outside the box
+2. hiddlen -> wont show text not getting within assigned to the box;
+3. scroll -> allow ahorizontal and vertical scroll bar 
+4. auto -> scroll bars will be added as pwe the need
+
+Table display
+display:table 
+display:table-cell
